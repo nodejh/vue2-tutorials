@@ -2,6 +2,8 @@
 
 在了解了 Vue 的一些基本概念之后，就可以写一个最简单的小项目了 --- TodoList。麻雀虽小，五张俱全。虽然是一个小 demo，但也涉及到了组件化、双向绑定、自定义事件的触发与监听、计算属性等概念。接下来从这个小项目中，对这些基本概念进行实践，从而加深理解。
 
+本文的所有代码在 [https://github.com/nodejh/vue2-tutorials/tree/master/02.TodoList](https://github.com/nodejh/vue2-tutorials/tree/master/02.TodoList)。
+
 最终实现效果如下：
 
 ![02.TodoLost-3.png](./images/02.TodoLost-3.png)
