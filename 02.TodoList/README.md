@@ -269,7 +269,7 @@ export default {
     methods: {
       // ...
       // 添加新的 todo
-      addTodo() {
+      addTodo(todo) {
         this.todos.push({
           text: todo,
           isCompleted: false
